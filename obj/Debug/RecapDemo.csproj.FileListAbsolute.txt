@@ -1,0 +1,10 @@
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\dell-user\source\repos\CSharpCourse\RecapDemo\obj\Debug\RecapDemo.pdb
